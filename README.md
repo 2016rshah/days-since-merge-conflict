@@ -1,4 +1,4 @@
-#[It has been __ days since the last merge conflict](http://www.rshah.io/merge-conflict/)
+#[__ days since the last merge conflict](http://www.rshah.io/merge-conflict/)
 
 Inspired by: 
 
